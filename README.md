@@ -93,6 +93,9 @@ git clone https://github.com/PriteshKiri/HashX-Chrome-Extension.git
 
 - Once done, hashX card will be shown in the dashboard.
 
+  ![image](https://github.com/PriteshKiri/HashX-Chrome-Extension/assets/77957844/e4983fbf-7f5f-4d8a-9782-df6296246f21)
+
+
 ![](https://github-production-user-asset-6210df.s3.amazonaws.com/77957844/301865081-4ba09a2c-f07a-4c21-8917-c2e7512d215d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240202T135547Z&X-Amz-Expires=300&X-Amz-Signature=20ef95f42848260f7353cebf44f2684f7aee585e698c245263225fed911660e6&X-Amz-SignedHeaders=host&actor_id=77957844&key_id=0&repo_id=751813709)
 
 </br>
