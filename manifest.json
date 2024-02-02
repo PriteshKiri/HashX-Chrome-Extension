@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "HashX: Access Hashnode blogs on every website",
+  "version": "1.0.0",
+  "description": "HashX is the world's first Hashnode Chrome extension. Now you can read Hashnode blogs on every website.",
+  "icons": {
+    "16": "images/hx-16x16.png",
+    "32": "images/hx-32x32.png",
+    "64": "images/hx-64x64.png",
+    "128": "images/hx-128x128.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["content.js"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "permissions": ["clipboardWrite", "storage"]
+}
